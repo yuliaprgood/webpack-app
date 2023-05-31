@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+}
+
+.image {
+  width: 900px;
+  border: 1px solid red;
+  position: relative;
+  overflow: hidden;
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
